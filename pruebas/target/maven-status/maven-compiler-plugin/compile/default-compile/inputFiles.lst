@@ -1,0 +1,11 @@
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\controller\MascotaController.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\controller\PersonaController.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\modelo\Mascota.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\modelo\Persona.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\PruebasApplication.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\repository\IMascotaRepository.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\repository\IPersonaRepository.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\service\IMascotaService.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\service\IPersonaService.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\service\MascotaService.java
+D:\OneDriveJ\Spring Boot\Clase 2\CRUD\pruebas\src\main\java\com\api\pruebas\service\PersonaService.java

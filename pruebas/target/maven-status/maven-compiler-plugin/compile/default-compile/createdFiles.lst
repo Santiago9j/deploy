@@ -1,0 +1,11 @@
+com\api\pruebas\service\IPersonaService.class
+com\api\pruebas\controller\MascotaController.class
+com\api\pruebas\PruebasApplication.class
+com\api\pruebas\repository\IMascotaRepository.class
+com\api\pruebas\controller\PersonaController.class
+com\api\pruebas\service\MascotaService.class
+com\api\pruebas\service\IMascotaService.class
+com\api\pruebas\service\PersonaService.class
+com\api\pruebas\repository\IPersonaRepository.class
+com\api\pruebas\modelo\Mascota.class
+com\api\pruebas\modelo\Persona.class
